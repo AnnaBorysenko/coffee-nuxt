@@ -6,7 +6,7 @@
 <!--</template>-->
 <template>
   <div>
-    <h1>Hi ..</h1>
+    <h1>Hi.</h1>
     <p>Pet project on Nuxt.js</p>
   </div>
 </template>
