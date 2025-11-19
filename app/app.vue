@@ -1,12 +1,12 @@
-<!--<template>-->
-<!--  <div>-->
-<!--    <NuxtRouteAnnouncer />-->
-<!--    <NuxtWelcome />-->
-<!--  </div>-->
-<!--</template>-->
+
+
+<script setup lang="ts">
+</script>
+
 <template>
-  <div>
-    <h1>Hi.</h1>
-    <p>Pet project on Nuxt.js</p>
-  </div>
+  <UApp>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </UApp>
 </template>

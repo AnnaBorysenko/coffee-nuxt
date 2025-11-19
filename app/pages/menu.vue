@@ -1,0 +1,5 @@
+<script lang="ts">
+</script>
+<template>
+  <div>menu</div>
+</template>
